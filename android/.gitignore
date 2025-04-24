@@ -12,3 +12,19 @@ GeneratedPluginRegistrant.java
 key.properties
 **/*.keystore
 **/*.jks
+# Flutter build folders
+build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# IDE stuff
+.vscode/
+.idea/
+
+# Secrets
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
